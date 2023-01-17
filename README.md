@@ -9,7 +9,13 @@ This repository contains the exam project for the "NI-SCR" course of Statistical
 1. Clone the repository
 
 ```
-git clone https://github.com/username/exam-project-statistical-analysis-of-time-series
+git clone https://github.com/NevoleMarek/NI-SCR-assignment.git
+```
+
+or
+
+```
+git clone git@github.com:NevoleMarek/NI-SCR-assignment.git
 ```
 
 2. Install the required packages
